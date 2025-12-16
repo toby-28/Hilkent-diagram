@@ -32,7 +32,7 @@
         <mxCell id="DBGOICGWiZAd4_G7j1tU-9" edge="1" parent="1" source="DBGOICGWiZAd4_G7j1tU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="DBGOICGWiZAd4_G7j1tU-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-360" y="880" />
+              <mxPoint x="-360" y="900" />
               <mxPoint x="-360" y="640" />
             </Array>
             <mxPoint x="-130" y="600" as="targetPoint" />
